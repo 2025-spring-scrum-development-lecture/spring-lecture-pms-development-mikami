@@ -1,0 +1,19 @@
+{
+    "type": "accommodation",
+    "plan": "【朝食付き】 観光、ビジネス！一泊朝食プラン",
+    "room": "本館 和室7.5畳間",
+    "date": "2025年4月18日",
+    "guests": {
+        "adults": 1,
+        "children": 0
+    },
+    "options": [],
+    "personal_info": {
+        "name": "a",
+        "name_kana": "a",
+        "checkin": "a",
+        "phone": "aa",
+        "email": "k.mikami.sys24@morijyobi.ac.jp",
+        "address": "a"
+    }
+}
