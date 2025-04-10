@@ -1,0 +1,22 @@
+{
+    "type": "",
+    "plan": "豪華(ごうか)コース",
+    "date": "2025年4月12日",
+    "options": [],
+    "discounts": [],
+    "personal_info": {
+        "name": "s",
+        "name_kana": "s",
+        "check_in_time": "s",
+        "phone": "s",
+        "email": "y.furudate.sys24@morijyobi.ac.jp",
+        "address": "s",
+        "adults": "3",
+        "children": "1"
+    },
+    "total_price": 75600,
+    "adults": 3,
+    "children": 1,
+    "number_of_people": 4,
+    "room": "岩手山展望露天風呂付き和室"
+}
